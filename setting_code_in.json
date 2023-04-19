@@ -1,0 +1,33 @@
+{
+    "code_type": "cyclecount_order_type",
+    "company_id": 106,
+    "created_at": "2023-04-12T09:27:38",
+    "created_user": "yyuan",
+    "description": null,
+    "is_system": true,
+    "lines": [
+        {
+            "business_process": null,
+            "code": "ZCPD",
+            "code_type": "cyclecount_order_type",
+            "index": 1,
+            "is_active": true,
+            "is_system": false,
+            "lang": "zh_CN",
+            "memo": null,
+            "name": "\u6b63\u5e38\u76d8\u70b9",
+            "owner_code": null,
+            "updated_user": null,
+            "userdefined1": null,
+            "userdefined2": null,
+            "userdefined3": null,
+            "userdefined4": null,
+            "userdefined5": null,
+            "userdefined6": null,
+            "warehouse_code": null
+        }
+    ],
+    "name": "\u76d8\u70b9\u5355\u5355\u636e\u7c7b\u578b",
+    "owner_code": "__all__",
+    "warehouse_code": "ALOOG"
+}
